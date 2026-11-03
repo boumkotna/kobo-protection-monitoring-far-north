@@ -9,7 +9,7 @@ Projet conçu pour le suivi des incidents de protection dans la région de l'Ext
 
 Zone d'intervention :
 - Mayo-Sava
-- mayo-Tsanaga
+- Mayo-Tsanaga
 - Logone-et-Chari
 
 ## 🎯 Objectifs
