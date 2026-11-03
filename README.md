@@ -56,7 +56,7 @@ Les données sont consultables dans l'onglet `DATA` de KoboToolbox. Export possi
 Fellow in Administration and IT at the Office of the United Nations High Commissioner for Human Rights Regional Hub for Central and West Africa (OHCHR RHCWA)| Spécialiste KoboToolbox & Information Management
 Extrême-Nord, Cameroun
 
-Compétences : Protection Monitoring, XLSForm Avancé, KoboToolbox, Gestion de données humanitaires, Resull-Based Management.
+Compétences : Protection Monitoring, Project Design, XLSForm Avancé, KoboToolbox, Gestion de données humanitaires, Result-Based Management.
 
 ---
 *Projet réalisé en 2026 dans le cadre du renforcement du système de monitoring de protection.*
